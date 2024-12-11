@@ -73,7 +73,7 @@ ___
 ## Dokumentation
 
 Eine ausführliche Dokumentation und weiterführende Informationen zu NovaLink finden Sie in unserem Wiki:
-[Zum Wiki](https://github.com/AetherisNova/NovaLink/wiki/NovaLink‐Wiki)
+[Zum Wiki](https://github.com/AetherisNova/NovaLink/wiki)
 
 Das Wiki ist derzeit in Arbeit und wird regelmäßig aktualisiert.
 
