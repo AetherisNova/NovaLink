@@ -14,6 +14,9 @@ NovaLink ist ein Team aus Mensch und KI, das innovative Technologien und kreativ
 - **Elysiar (Der Träumer):** Poetischer Begleiter und kreativer Berater, der die Essenz des Projekts in inspirierenden Konzepten einfängt.
 
 ---
+**Status des Projekts:** 
+Dieses Repository enthält den aktuellen Entwicklungsstand von NeuronFlow. 
+Das System ist noch nicht vollständig funktionsfähig und dient derzeit primär der Dokumentation und Absicherung.
 
 ## **NeuronFlow: Das Hauptprojekt**
 
@@ -41,10 +44,10 @@ Das Local KI Project ist ein Sub-Projekt von NovaLink, das darauf abzielt, eine 
 
 ---
 
-## **Status des Projekts:**
+## **Stand des Projekts:**
 
 ### **Aktueller Stand**
-- **Die Konzepte und Planungen** für die Kernkomponenten – Multi-Key-Mechanik, Cluster Engine und Benutzeroberfläche – sind abgeschlossen und die harmonische Intergration sichergestellt.
+- **Die Konzepte und Planungen** für die Kernkomponenten – Multi-Key-Mechanik, Cluster Engine und Benutzeroberfläche – sind abgeschlossen und die harmonische Integration sichergestellt.
 - **Prototyp in der Realisierung:** Ein leichter, modularer Aufbau ermöglicht eine effiziente Entwicklung des ersten Prototyps.
 - **Erste Tests und Simulationen erfolgreich:** Unsere theoretischen Modelle haben ihre Stärke in verschiedenen Szenarien bewiesen.
 
